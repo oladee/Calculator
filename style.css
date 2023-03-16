@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    height: 100vh;
+    background-color: #e0c2ef;
+}
+.calculatorBody{
+    background-color: #011d36;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
